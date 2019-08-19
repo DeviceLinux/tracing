@@ -1,4 +1,4 @@
-#!/system/bin/sh
+#!/bin/sh
 
 clear
 sleep 1
@@ -68,12 +68,14 @@ git clone https://github.com/Xi4u7/A-Rat
 cd A-Rat
 chmod +x A-Rat.py
 python2 A-Rat.py                                           
+
 ;;
 
 3)clear
 git clone https://github.com/Amriez/AOCDEFACE       
 cd AOCDEFACE
 sh AOC.sh
+
 ;;
 
 4)clear
